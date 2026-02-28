@@ -1,5 +1,5 @@
 <h1 align="center">
-  Angularsockets
+  knightSokets
 </h1>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ---
 
-# 🎀 Angularsockets
+# 🎀 knightSokets
 
-> **Angularsockets** a mod og *Baileys WhatsApp Web API* by **Mr Frank** 
+> **knightSokets** a mod og *Baileys WhatsApp Web API* by **Mr Frank** 
 ---
 
 ## ✨ Mafeatures
@@ -37,7 +37,7 @@
 ## 📦 Installation
 Install npm
 ```bash
-npm i angularsockets
+npm i knightSokets
 
 
 ## Handling Events

@@ -1,5 +1,5 @@
 {
-  "name": "angularsockets",
+  "name": "knightSokets",
   "version": "1.4.5",
   "description": "Baileys Mod By Mr Frank",
   "keywords": [
@@ -13,7 +13,7 @@
   ],
   "homepage": "",
   "repository": {
-    "url": "https://www.npmjs.com/package/angularsockets"
+    "url": "https://www.npmjs.com/package/knightSokets"
   },
   "license": "MIT",
   "author": "Mr Frank",
