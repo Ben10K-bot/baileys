@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://dabby.vercel.app/menu.jpg" width="400" style="border-radius:8px;">
+  <img src="https://i.pinimg.com/736x/7d/37/5f/7d375fbca16184e70d4c44b9cb0c2a09.jpg" width="400" style="border-radius:8px;">
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ---
 
-# 🎀 knightSokets
+# 🗡️ knightSokets
 
-> **knightSokets** a mod og *Baileys WhatsApp Web API* by **Mr Frank** 
+> **knightSokets** a mod og *Baileys WhatsApp Web API* by **dev.knight** 
 ---
 
 ## ✨ Mafeatures
@@ -37,7 +37,7 @@
 ## 📦 Installation
 Install npm
 ```bash
-npm i knightSokets
+npm i @whiskeySockets/baileys@github:Ben10K-bot/baileys
 
 
 ## Handling Events

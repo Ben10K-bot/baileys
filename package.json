@@ -1,7 +1,7 @@
 {
   "name": "knightSokets",
   "version": "1.4.5",
-  "description": "Baileys Mod By Mr Frank",
+  "description": "Baileys Mod By dev.knight",
   "keywords": [
     "baileys",
     "mrfrankofc",
@@ -16,7 +16,7 @@
     "url": "https://www.npmjs.com/package/knightSokets"
   },
   "license": "MIT",
-  "author": "Mr Frank",
+  "author": "dev.knight",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
